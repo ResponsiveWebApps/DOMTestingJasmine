@@ -7,7 +7,7 @@ Checks for title, metadata and least one image. The intention is to be used as a
 
 ## Configuration
 
-Set your prepared title and keywords in the JavaScript file name *DomTest.js*.  
+Set your preferred title and keywords in the JavaScript file name *DomTest.js*.  
 
 ` title = "Your title" `  
 ` meta.content = "Keywords, with, comas" `  

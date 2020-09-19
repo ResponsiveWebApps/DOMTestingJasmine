@@ -2,12 +2,12 @@
 
 DOM Testing with Jasmine.   
 
-Checks for title, meta data and and least one image. Intention is to be used as an *SEO* validator. 
+Checks for title, metadata and least one image. The intention is to be used as an *SEO* validator.
 
 
 ## Configuration
 
-Set your prepared title and keyowrds in the JavaScript file name *DomTest.js*.  
+Set your prepared title and keywords in the JavaScript file name *DomTest.js*.  
 
 ` title = "Your title" `  
 ` meta.content = "Keywords, with, comas" `  
@@ -15,7 +15,7 @@ Set your prepared title and keyowrds in the JavaScript file name *DomTest.js*.
 ---
 ## Requirements
 
-For development, you will only need Node.js installed in your environement.
+For development, you will only need Node.js installed in your environment.
 
 ### Node
 - #### Node installation on Windows
